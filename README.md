@@ -20,10 +20,14 @@
 /**
  *  App Configuration & Routes Definitions
  */
-
+<hr>
 <li>In the required models import the models required http</li>
 <li>In create the variables needed, port, status</li>
 <li>Create the server with the createServer method giving it request and respond parameters</li>
 <li>add routes</li>
 <li>Create the routes</li>
 <li>Use the listen method with the parameters of "port" </li>
+
+<h3>run "node index.js" in ther terminal to start the server</h3>
+<li>in the url browser type "http://localhost:2000" to see the output</li>
+<li>to see the other page add to the url /home, "http://localhost:2000/home" </li>
