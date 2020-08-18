@@ -18,20 +18,12 @@
  */
 
 /**
- *  App Configuration
+ *  App Configuration & Routes Definitions
  */
-
-/**
- * Routes Definitions
- */
-
-/**
- * Server Activation
- */
-
 
 <p>In the required models import the models required http</p>
 <p>In create the variables needed, port, status</p>
 <p>Create the server with the createServer method giving it request and respond parameters</p>
+<p>add routes</p>
 <p>Create the routes</p>
 <p>Use the listen method with the parameters of "port" </p>

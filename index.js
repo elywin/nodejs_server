@@ -23,10 +23,6 @@ http.createServer((req,res)=>{
  * Routes Definitions
  */
 
-/**
- * Server Activation
- */
-
 
 
 
