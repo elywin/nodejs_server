@@ -14,7 +14,7 @@ http.createServer((req,res)=>{
     res.writeHead(status,{'content-type':'text/html'});
     const url = req.url;
     if(url==='/home'){
-        res.write('<h1>welcome</h1>');
+        res.write('<h1>welcome!</h1>');
         res.end(); 
     }else{
         res.write('<h1>Hello world!</h1>');
